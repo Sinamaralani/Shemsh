@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shemsh" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/white</item>
+
+        <item name="android:fontFamily">@font/iran_sansx_medium</item>
+        <item name="fontFamily">@font/iran_sansx_medium</item>
+        <item name="chipCornerRadius">50dp</item>
+        <item name="chipStrokeWidth">10dp</item>
+        <item name="chipStrokeColor">#111</item>
+
+    </style>
+
+
+
+    <style name="Theme.Shemsh" parent="Base.Theme.Shemsh" />
+</resources>
